@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e641be41.css",
+    "main.js": "/static/js/main.b2521f84.js",
+    "static/js/787.fcd97a17.chunk.js": "/static/js/787.fcd97a17.chunk.js",
+    "static/media/Caveat-Regular.ttf": "/static/media/Caveat-Regular.1f129497cd349562c266.ttf",
+    "static/media/LibreBaskerville-Regular.ttf": "/static/media/LibreBaskerville-Regular.715e9cea90f54d5a4093.ttf",
+    "static/media/SpecialElite-Regular.ttf": "/static/media/SpecialElite-Regular.cefed1373df28714f8e5.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/book.png": "/static/media/book.998630fe7295bae498b5.png",
+    "static/media/RobotoMono-Regular.ttf": "/static/media/RobotoMono-Regular.34e46962590bff8eefe5.ttf",
+    "static/media/fabric.png": "/static/media/fabric.8a4c77dce03c87583b95.png",
+    "static/media/grey.png": "/static/media/grey.70f32e05ae36e2f98ea6.png",
+    "static/media/leaves.png": "/static/media/leaves.44783a9dfa781eda7b43.png",
+    "index.html": "/index.html",
+    "main.e641be41.css.map": "/static/css/main.e641be41.css.map",
+    "main.b2521f84.js.map": "/static/js/main.b2521f84.js.map",
+    "787.fcd97a17.chunk.js.map": "/static/js/787.fcd97a17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e641be41.css",
+    "static/js/main.b2521f84.js"
+  ]
+}
